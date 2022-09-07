@@ -20,7 +20,7 @@ m.reply(`
 *┃ FECHA: ${new Date().toLocaleString('id-ID')}*
 *╰━━━〔 𓃠 ${vs} 〕━━━━━⬣*
 
-*_Cuanto más interactúes con GataBot-MD, mayor será tu nivel!!_*
+*_Cuanto más interactúes con Papolito, mayor será tu nivel!!_*
 `.trim())
     }
 }		
